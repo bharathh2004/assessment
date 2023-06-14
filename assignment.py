@@ -1,5 +1,6 @@
-str = "Edyoda"
-print("string before reverse:",str)
-reverse_str = str[::-1]
-print("The reverse string is:",reverse_str)
+x = 1
+y = 0
+while y < 50:
+    print(y)
+    x,y=y,x+y
 
